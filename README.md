@@ -15,3 +15,8 @@ A complete list of YouTube Playables links for school.
 [Tomb of the Mask](https://www.youtube.com/playables/UgkxKXJt3Dp8gutdeca9P-UpEM3LLaeDffpa)
 
 [Trivia Crack](https://www.youtube.com/playables/UgkxfKri7hfiRMnRbdGkN-SLmF6YjBPnvism)
+
+[Decor Life](https://www.youtube.com/playables/UgkxW0zdrtok4czk5IE1sj4MTiaFk45aHfwF)
+
+[My Mini Mart](https://www.youtube.com/playables/Ugkxto-OwJZo4rm8Xl2Nj3K403nHlYThf-sr)
+
