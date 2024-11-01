@@ -1,6 +1,8 @@
 # YouTube-Playables
 A complete list of YouTube Playables links for school.
 
+Most of these games are available on Google's HTML5 games service called [GameSnacks](https://gamesnacks.com) so I would recommend you use that instead of YouTube
+
 > [!NOTE]  
 > You may need to add another Google Account and sign into it on YouTube beforehand.
 
