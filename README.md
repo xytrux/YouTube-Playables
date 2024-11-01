@@ -1,6 +1,9 @@
 # YouTube-Playables
 A complete list of YouTube Playables links for school.
 
+> [!NOTE]  
+> You may need to add another Google Account and sign into it on YouTube beforehand.
+
 ## Links
 
 [Angry Birds Showdown](https://www.youtube.com/playables/Ugkxb2gxwOZu9QDqSZymy8YWhn_NJbg2BQXH)
